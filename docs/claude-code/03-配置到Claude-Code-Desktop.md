@@ -19,10 +19,14 @@
 3. 在顶部菜单栏选择 **Help（帮助）** → **Troubleshooting（疑难解答）**。
 4. 在弹出的子菜单里点击 **Enable Developer Mode（启用开发者模式）**。
 
+![启用开发者模式](/images/claude-desktop/step1-developer-mode.png)
+
 ## 步骤 2：进入第三方 API 配置页面
 
 1. 点击新出现的 **Developer** 菜单。
 2. 选择 **Configure Third-Party Inference…（配置第三方推理…）**。
+
+![进入第三方 API 配置页面](/images/claude-desktop/step2-configure-third-party.png)
 
 ## 步骤 3：填写 Base URL 和 API Key
 
@@ -30,9 +34,13 @@
 - **Base URL**：你的 API 端点（从 [KoiUP 控制台](https://koiup.com/keys) 获取）
 - **API Key**：你的 API 密钥（从 [KoiUP 控制台](https://koiup.com/keys) 获取）
 
+![填写 Base URL 和 API Key](/images/claude-desktop/step3-base-url-key.png)
+
 ## 步骤 4：验证是否成功
 
 1. 配置完成后，Claude Desktop 可能会提示重启；如果没有提示，也建议手动完全退出后重新打开。
 2. 重新打开后，进入 Cowork、Code 或 Projects 相关页面。
 3. 输入一个简单问题测试。
 4. 如果模型能正常响应，或者界面中显示的是你第三方 API 提供的模型，就说明配置成功。
+
+![验证配置成功](/images/claude-desktop/step4-verify.png)

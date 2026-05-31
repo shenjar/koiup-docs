@@ -50,7 +50,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com' }
     ],
     footer: {
-      message: '如有问题请联系 support@koiup.com',
+      message: '如有问题请联系 shenabaa@gmail.com',
       copyright: 'Copyright © 2025 KoiUP'
     },
     search: {

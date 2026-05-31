@@ -15,11 +15,15 @@
 1. 打开设置
 2. 在左侧的模型平台列表点击**添加**
 
+![打开 Cherry Studio 设置](/images/cherry-codex/step1-add-platform.png)
+
 ## 步骤 2：添加提供商
 
 1. 随便输入一个名称
 2. 提供商类型选择 **OpenAI**
 3. 点击**确定**
+
+![添加提供商](/images/cherry-codex/step2-add-provider.png)
 
 ## 步骤 3：输入 API 密钥和 API 地址
 
@@ -28,8 +32,18 @@
 3. 如果 API 可用，会出现模型列表，点击**添加所有**，再点击**确定**
 4. 然后关闭页面，返回首页
 
+![输入 API 密钥和地址](/images/cherry-codex/step3-key-url-1.png)
+
+![获取模型列表](/images/cherry-codex/step3-key-url-2.png)
+
 ## 步骤 4：验证是否成功
 
 1. 点击模型切换位置可切换模型
 2. 选择刚刚添加的模型
 3. 发送 `hi` 测试是否可用
+
+![切换到刚添加的模型](/images/cherry-codex/step4-verify-1.png)
+
+![选择模型](/images/cherry-codex/step4-verify-2.png)
+
+![发送测试消息](/images/cherry-codex/step4-verify-3.png)

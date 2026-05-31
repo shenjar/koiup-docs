@@ -20,8 +20,8 @@
 
 ### 官方客服
 
-- **邮箱**：support@koiup.com
+- **邮箱**：shenabaa@gmail.com
 
 ### 其他联系方式
 
-- 📧 邮箱：[support@koiup.com](mailto:support@koiup.com)
+- 📧 邮箱：[shenabaa@gmail.com](mailto:shenabaa@gmail.com)
