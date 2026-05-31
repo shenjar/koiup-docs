@@ -4,6 +4,7 @@ export default defineConfig({
   title: 'KoiUP 帮助文档',
   description: 'KoiUP API 服务使用文档',
   lang: 'zh-CN',
+  base: '/koiup-docs/',
   themeConfig: {
     logo: '/logo.png',
     nav: [
@@ -47,7 +48,7 @@ export default defineConfig({
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com' }
+      { icon: 'github', link: 'https://github.com/shenjar/koiup-docs' }
     ],
     footer: {
       message: '如有问题请联系 shenabaa@gmail.com',
