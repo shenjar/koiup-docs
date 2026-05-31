@@ -34,6 +34,8 @@ jobs:
         run: npm ci
       - name: Build with VitePress
         run: npm run build
+        env:
+          DOCS_BASE: /koiup-docs/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

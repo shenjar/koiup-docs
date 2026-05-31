@@ -4,7 +4,7 @@ export default defineConfig({
   title: 'KoiUP 帮助文档',
   description: 'KoiUP API 服务使用文档',
   lang: 'zh-CN',
-  base: '/koiup-docs/',
+  base: process.env.DOCS_BASE || '/',
   themeConfig: {
     logo: '/logo.png',
     nav: [
